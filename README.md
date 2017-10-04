@@ -9,3 +9,4 @@ with players being eliminated when they have been given all five letters of the 
 
 Ghost can be played by two or more players of any age and requires no equipment, 
 although it can be played with pencil and paper instead of being spoken aloud.
+This game uses google dictionary. 
